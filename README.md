@@ -1,13 +1,11 @@
 ci_base
 =======
 
-My CodeIgniter Base Config
+CodeIgniter Base Config
 
 
-CodeIgniter 2.1.3
+    CodeIgniter 3.0.0
+    IonAuth 2
+    BootStrap 3.3.4
+    jQuery 2.1.3
 
-IonAuth
-
-BootStrap 2.3.3
-
-Jquery 2.0.2
