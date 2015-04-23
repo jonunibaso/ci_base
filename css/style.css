@@ -1,8 +1,7 @@
 body {
-    background: url("../img/body-bg.png") repeat scroll 0 0 #E9E9E9;
-    font: 13px/1.7em 'Open Sans';
+  min-height: 2000px;
+  padding-top: 70px;
 }
 
-a{
-    color: #555555;
-}
+/* fixed top navbar /*
+
